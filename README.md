@@ -23,11 +23,11 @@
 
 ## Python Lecture Notes
 
-To be posted.
++ [Lecture 1](https://hackmd.io/s/rJ6hmNpUN)
 
 ### Python package installation
 
-To be posted.
++ [Reference (installed on PC4 classroom)](https://hackmd.io/Y-nIHhTrTyW8B42vH14YYw)
 
 ## Term Poject
 
