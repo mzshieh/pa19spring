@@ -29,10 +29,13 @@
 ### Python package installation
 
 + [Reference (installed on PC4 classroom)](https://hackmd.io/Y-nIHhTrTyW8B42vH14YYw)
++ [Mac OS X](https://hackmd.io/s/S1WCZqluE)
 
 ## Term Poject
 
 1. A game agent using `pyautogui` and `opencv`
+	+ Candidate 1: [焼き鳥奉行](http://games.twtop.net/fgameplay.php?id=2424)
+	+ You can choose a game from websites like [this](http://games.twtop.net/) or [www.i-gamer.net](https://www.i-gamer.net/) with the instructor's permission.
 2. An application involving crawler and chat bot.
 
 ## Grading Policy
