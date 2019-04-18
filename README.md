@@ -25,6 +25,7 @@
 
 + [Lecture 1](https://hackmd.io/s/rJ6hmNpUN)
 + [Lecture 2](https://hackmd.io/s/ByMfXEPDN)
++ [Lecture 3](https://hackmd.io/s/HJmvTOrcV)
 
 ### Python package installation
 
