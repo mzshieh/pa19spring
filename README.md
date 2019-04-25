@@ -36,6 +36,8 @@
 
 1. A game agent using `pyautogui` and `opencv`
 	+ Candidate 1: [焼き鳥奉行](http://games.twtop.net/fgameplay.php?id=2424)
+		+ At least 300 seconds gameplay
+		+ Achieve at least 3 times in top two levels.
 	+ You can choose a game from websites like [this](http://games.twtop.net/) or [www.i-gamer.net](https://www.i-gamer.net/) with the instructor's permission.
     + [ToolKit Manual](https://hackmd.io/s/B1LbJaRjm)
 2. An application involving crawler and chat bot.
