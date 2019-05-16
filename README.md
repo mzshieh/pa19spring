@@ -26,6 +26,7 @@
 + [Lecture 1](https://hackmd.io/s/rJ6hmNpUN)
 + [Lecture 2](https://hackmd.io/s/ByMfXEPDN)
 + [Lecture 3](https://hackmd.io/s/HJmvTOrcV)
++ [Lecture 4](https://hackmd.io/s/S17MXDc3N)
 
 ### Python package installation
 
@@ -43,7 +44,9 @@
     + [Submit](https://forms.gle/uwttX6awhZjH74JY9) your video link, source 
 codes and resources.
     + Deadline: 23:59:59, 9 May, 2019
-2. An application involving crawler and chat bot.
+2. A chatbot playing game.
+	+ [Material](https://hackmd.io/s/HkgaMUc24)
+	+ Deadline: 25:59:59, 27 June, 2019
 
 ## Grading Policy
 
