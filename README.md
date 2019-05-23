@@ -44,8 +44,17 @@
     + [Submit](https://forms.gle/uwttX6awhZjH74JY9) your video link, source 
 codes and resources.
     + Deadline: 23:59:59, 9 May, 2019
-2. A chatbot playing game.
+2. A game using chatbot.
 	+ [Material](https://hackmd.io/s/HkgaMUc24)
+	+ Candidate 1: Bull and Cows
+		+ Force users to guess at least 7 times.
+		+ Cheating is a must.
+		+ Cheating must not be caught.
+	+ Candidate 2: Rock-Paper-Scissors
+		+ There are three kinds of cards: rock cards, paper cards, scissor cards.
+		+ The chatbot issues 5 cards to each of the player and the chatbot.
+		+ The cards must be revealed at the beginning.
+		+ The chatbot must win if it is winnable.
 	+ Deadline: 25:59:59, 27 June, 2019
 
 ## Grading Policy
