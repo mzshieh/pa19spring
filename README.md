@@ -56,7 +56,8 @@ codes and resources.
 		+ The chatbot issues 5 cards to each of the player and the chatbot.
 		+ The cards must be revealed at the beginning.
 		+ The chatbot must win if it is winnable.
-	+ Deadline: 25:59:59, 27 June, 2019
+    + [Submit](https://forms.gle/Amuc499X6PNu1cro9) your video link, source 
+	+ Deadline: 23:59:59, 27 June, 2019
 
 ## Grading Policy
 
